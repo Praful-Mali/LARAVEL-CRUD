@@ -7,16 +7,16 @@ This application is a simple example of performing basic CRUD operations using L
 ### Laravel
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-### SB Admin 2
+### Other Project
 
 This is the CSS Bootstrap theme applied in this applciation.
 
-Source code of SB Admin Bootstrap can be found [Github](https://github.com/Praful-Mali/CRUD-Operation-laravel).
+Source code of other CRUD can be found [Github](https://github.com/Praful-Mali/CRUD-Operation-laravel).
 
 ## License
 
 ### Laravel
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+The Laravel framework is open-so urced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ### SB Admin
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT license](https://github.com/Praful-Mali/CRUD-Operation-laravel).
