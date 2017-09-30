@@ -1,6 +1,6 @@
 # Laravel CRUD Example
 
-This application is a simple example of performing basic CRUD operations using Laravel 5.3 and MySql with authentication. This shows a simple management of Books wherein a user can add, edit and delete records of Books.
+This application is a simple example of performing basic CRUD operations using Laravel 5.5 and MySql with authentication. This shows a simple management of Post wherein a user can add, edit and delete records of Post.
 
 ## Documentation
 
@@ -11,7 +11,7 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 This is the CSS Bootstrap theme applied in this applciation.
 
-Source code of SB Admin Bootstrap can be found [Github](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2).
+Source code of SB Admin Bootstrap can be found [Github](https://github.com/Praful-Mali/CRUD-Operation-laravel).
 
 ## License
 
@@ -19,7 +19,7 @@ Source code of SB Admin Bootstrap can be found [Github](https://github.com/Black
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ### SB Admin
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT license](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/blob/gh-pages/LICENSE).
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT license](https://github.com/Praful-Mali/CRUD-Operation-laravel).
 
 ## Installation
 
